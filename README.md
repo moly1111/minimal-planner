@@ -1,3 +1,5 @@
+# 可以直接访问github托管链接：https://moly1111.github.io/minimal-planner/
+
 # 极懒计划表
 
 一个纯本地存储、无账号、无云端、极简、零多余功能的"每日计划表"网页工具。
@@ -157,4 +159,5 @@ minimal-planner/
 
 **数据丢失将无法找回，请定期备份并妥善保存。**  
 **Data cannot be recovered if lost. Please back up regularly.**
+
 
